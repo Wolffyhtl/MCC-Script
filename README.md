@@ -1,2 +1,2 @@
-# MCC-Stript
-Some stripts of Minecraft Console Client.
+# MCC-Script
+Some scripts of Minecraft Console Client.
