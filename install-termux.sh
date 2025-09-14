@@ -1,5 +1,5 @@
 pkg update
 pkg upgrade -y
 pkg install proot-distro -y
-pd install ubuntu
-pd login ubuntu
+pd i ubuntu
+pd sh ubuntu
